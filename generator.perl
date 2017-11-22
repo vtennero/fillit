@@ -7,15 +7,16 @@ my ($x, $density) = @ARGV;
 for (my $k = 0; $k < $x; $k++) {
 	for (my $i = 0; $i < 4; $i++) {
 		for (my $j = 0; $j < 4; $j++) {
-			if (int(rand(4) * 2) < $density) {
+			if (int(rand(4)) * 2 < $density) {
 				print "#";
 			}
 			else {
 				print ".";
 			}
 		}
-				print "\n";
+		print "\n";
 	}
-			print "\n";
-
+	if ($k != $x - 1) {
+		print "\n";
+	}
 }
