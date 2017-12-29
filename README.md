@@ -1,6 +1,6 @@
 # fillit
 
-Fillit is a program that assembles a given Tetriminos set altogether in the smallest possible square (max : 26), in a minimum of time.
+fillit is a program that assembles a given Tetriminos set altogether in the smallest possible square (max : 26), in a minimum of time.
 
 ## Installing
 
@@ -54,7 +54,7 @@ Then do :
 
 ## Additional Resources
 
-Instructions : [Subject](http://bit.ly/2le7CAs)
+Instructions : [Subject](https://www.dropbox.com/s/kyufuvmzfua01rp/fillit.en.pdf?dl=0)
 
 My test program : [TN_test_Fillit](https://github.com/vtennero/TN_test_Fillit)
 
