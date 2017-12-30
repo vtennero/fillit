@@ -60,6 +60,7 @@ My test program : [TN_test_Fillit](https://github.com/vtennero/TN_test_Fillit)
 
 Another test program (not made by me) : [42FC](https://github.com/jgigault/42FileChecker)
 
-## Author
+## Authors
 
 * **Victor Tenneroni** - [Website](http://victor-tenneroni.com/)
+* **mmerabet**
