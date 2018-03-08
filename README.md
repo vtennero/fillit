@@ -60,6 +60,10 @@ My test program : [TN_test_Fillit](https://github.com/vtennero/TN_test_Fillit)
 
 Another test program (not made by me) : [42FC](https://github.com/jgigault/42FileChecker)
 
+## Disclaimer
+
+This project, along with most projects from my github, follows the rules specified by the [42 Norm](https://www.dropbox.com/s/a6bpolsav238d97/norme.en.pdf?dl=0). Among others, it implies that all functions do not exceed 25 lines, as a means to make the code as clear as possible.
+
 ## Authors
 
 * **Victor Tenneroni** - [Website](http://victor-tenneroni.com/)
